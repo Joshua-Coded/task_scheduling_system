@@ -29,13 +29,13 @@ A C-based task management system designed for small companies to manage and prio
 git clone https://github.com/Joshua-Coded/task_scheduling_system.git
 
 # Navigate to directory
-cd task-scheduler
+cd task_scheduling_system
 
 # Compile the program
-gcc task_scheduler.c -o task_scheduler
+gcc task_scheduling_system.c -o task_scheduling_system
 
 # Run the program
-./task_scheduler
+./task_scheduling_system
 ```
 
 ## Usage
