@@ -106,6 +106,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-Your Name
+Joshua Alana
 - GitHub: [@Joshua-Coded]
 - Email: j.alana@alustudent.com
